@@ -14,7 +14,7 @@ public class Main {
         myVar=anotherVar;
         System.out.println(myVar+" after assigning another var");
         anotherVar=200;
-        System.out.println(anotherVar+" Changed Another Var");
+        System.out.println(anotherVar+" Changed Another Var ");
 
 
 
